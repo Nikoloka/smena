@@ -1,0 +1,1 @@
+{"name":"Смена","short_name":"Смена","description":"Калькулятор смен и переработок","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#07080B","theme_color":"#07080B","lang":"ru","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
